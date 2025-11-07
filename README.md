@@ -14,7 +14,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=python,go,javascript,typescript,postgres,mongodb,html,css&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,go,javascript,typescript,kotlin,postgres,mongodb,html,css&theme=light" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,react,tailwind,materialui&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,express,react,redis,tailwind,materialui&theme=light" />
   </a>
 </p>
 
