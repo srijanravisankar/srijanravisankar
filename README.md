@@ -5,24 +5,18 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hey%20there,%I'm%20SRIJAN!&width=1000&height=80)](https://github.com/Akshay090/svg-banners)
 
 <p align="center">
-   <a href="https://github.com/srijanravisankar" title="See my backend work">
-    <img
+  <img
       src="https://img.shields.io/badge/CS-Student-red?style=for-the-badge&logo=settings&logoColor=white"
       alt="Backend Engineer badge"
-    />
-  </a>
-  <a href="https://github.com/srijanravisankar" title="See my backend work">
-    <img
+  />
+  <img
       src="https://img.shields.io/badge/Backend-Engineer-blue?style=for-the-badge&logo=globe&logoColor=white"
       alt="Backend Engineer badge"
-    />
-  </a>
-  <a href="https://github.com/srijanravisankar" title="See my backend work">
-    <img
+  />
+  <img
       src="https://img.shields.io/badge/Opensource-Enthusiasist-green?style=for-the-badge&logo=globe&logoColor=white"
       alt="Backend Engineer badge"
-    />
-  </a>
+  />
 </p>
 
 ---
@@ -38,18 +32,17 @@
     <img src="https://skillicons.dev/icons?i=python,go,javascript,typescript,kotlin,postgres,mongodb,html,css&theme=light" />
   </a>
 </p>
-
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,express,react,redis,tailwind,materialui&theme=light" />
+  </a>
+</p>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,postman,vim&theme=light" />
   </a>
 </p>
 
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,express,react,redis,tailwind,materialui&theme=light" />
-  </a>
-</p>
 
 ---
 
