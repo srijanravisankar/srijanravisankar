@@ -1,22 +1,9 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI0ODgzMDIsIm5iZiI6MTc2MjQ4ODAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA3VDA0MDAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzYWM2ODVkZmMzYzE1ZGRjYTBmYTkxMjcxNDM5NDczYTY3MmFlYTgxZGJkODI1OTg2MWI1ODBhMDg5N2Q3MDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.djfRWkeALJpjP09vQOpFYYwYyFG4R4iShVrDGb2M5lk" alt="Srijan's cover image" height="200" />
+  <img width="2000" height="400" alt="cover-image" src="https://github.com/user-attachments/assets/3ac6c09f-b7b8-49f2-b14e-023d61f01a72" />
 </p>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hey%20there,%I'm%20SRIJAN!&width=1000&height=80)](https://github.com/Akshay090/svg-banners)
-
 <p align="center">
-  <img
-      src="https://img.shields.io/badge/CS-Student-red?style=for-the-badge&logo=settings&logoColor=white"
-      alt="Backend Engineer badge"
-  />
-  <img
-      src="https://img.shields.io/badge/Backend-Engineer-blue?style=for-the-badge&logo=globe&logoColor=white"
-      alt="Backend Engineer badge"
-  />
-  <img
-      src="https://img.shields.io/badge/Opensource-Enthusiasist-green?style=for-the-badge&logo=globe&logoColor=white"
-      alt="Backend Engineer badge"
-  />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=24&duration=4000&color=63F700&center=true&vCenter=true&width=435&lines=Hey+there%2C;I'm+Srijan!;Backend+Developer;CS+Student" alt="Typing SVG" /></a>
 </p>
 
 ---
