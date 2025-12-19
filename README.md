@@ -2,71 +2,72 @@
   <img width="2000" height="400" alt="cover-image" src="https://github.com/user-attachments/assets/3ac6c09f-b7b8-49f2-b14e-023d61f01a72" />
 </p>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=24&duration=4000&color=63F700&center=true&vCenter=true&width=435&lines=Hey+there%2C;I'm+Srijan!;Backend+Developer;CS+Student" alt="Typing SVG" /></a>
-</p>
+# Hi there, I'm Srijan Ravisankar 👋
+
+**3rd Year Computer Science Student @ Lakehead University 🇨🇦**
+
+I am a Full Stack Developer and AI enthusiast passionate about building secure, scalable applications and solving complex problems with modern tech stacks.
 
 ---
 
-### 🧠 About Me
-...
----
+### 🛠️ Technical Arsenal
 
-### 🛠️ Tech Stack
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, Golang, SQL, HTML/CSS |
+| **Frontend** | React.js, Next.js, TailwindCSS, MUI, Shadcn |
+| **Backend** | Node.js, FastAPI, Flask, PostgreSQL, MongoDB |
+| **DevOps & Tools** | Docker, Kubernetes, Azure, Git, Linux |
 
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=python,go,javascript,typescript,kotlin,postgres,mongodb,html,css&theme=light" />
-  </a>
-</p>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,express,react,redis,tailwind,materialui&theme=light" />
-  </a>
-</p>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,postman,vim&theme=light" />
-  </a>
-</p>
-
+<img src="https://skillicons.dev/icons?i=python,go,javascript,typescript,kotlin,postgres,mongodb,html,css,nodejs,fastapi,flask,express,react,redis,tailwind,materialui,docker,kubernetes,git,linux,postman,vim&theme=light" />
 
 ---
 
-### 📊 GitHub Stats
-...
----
+### 🚀 Featured Project: [Odysseyelp](https://github.com/srijanravisankar/Odysseyelp) (Hackathon 2025)
 
-### 🔥 Streak Stats & Trophies
-...
----
+**An AI-powered group travel planner that turns chat chaos into perfect itineraries.**
 
-### 🐍 Contribution Snake
-...
----
-
-<p align="center">
-  <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" height="30" /> <b>Let's Connect!</b></h2>
-</p>
-<p align="left">
-  <a href="https://linkedin.com/in/srijanravisankar"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
-  <a href="mailto:srijanvr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light"/></a>
-</p>
+* **The Problem:** Coordinating group trips is messy. Finding consensus on food and activities takes forever.
+* **The Solution:** A real-time group chat app that "listens" to user wishes, uses **Google Gemini 1.5** to reason out a consensus, and fetches real-world data via the **Yelp Fusion AI API** to build a conflict-free itinerary.
+* **Key Tech:** Next.js 16 (App Router), Supabase (PostgreSQL), Mapbox GL, ShadCN UI.
+* **My Role:** I architected the **multi-agent AI pipeline** (chaining Gemini reasoning with Yelp data) and implemented a custom **RLS-bypass broadcast system** in PostgreSQL to sync itineraries across private user dashboards instantly.
 
 ---
 
-<div align="center" style="color:red;">
-  <pre align="center" style="color:red;">
-   /$$$$$$$$ /$$                           /$$                 /$$ /$$
-  |__  $$__/| $$                          | $$                | $$| $$
-     | $$   | $$$$$$$   /$$$$$$  /$$$$$$$ | $$   /$$  /$$$$$$$| $$| $$
-     | $$   | $$__  $$ |____  $$| $$__  $$| $$  /$$/ /$$_____/| $$| $$
-     | $$   | $$  \ $$  /$$$$$$$| $$  \ $$| $$$$$$/ |  $$$$$$ |__/|__/
-     | $$   | $$  | $$ /$$__  $$| $$  | $$| $$_  $$  \____  $$        
-     | $$   | $$  | $$|  $$$$$$$| $$  | $$| $$ \  $$ /$$$$$$$/ /$$ /$$
-     |__/   |__/  |__/ \_______/|__/  |__/|__/  \__/|_______/ |__/|__/
-  </pre>
-</div>                                                  
+### 📂 Other Notable Projects
+
+#### 🧠 [Memento](https://github.com/srijanravisankar/memento)
+*May 2025 – July 2025*
+A modular full-stack flashcard app featuring **AI-generated cards** and **FSRS-based spaced repetition**.
+* **Stack:** React.js, Python (FastAPI), SQLAlchemy, SQLite.
+* **Highlight:** Released installable binaries via GitHub Actions; robust data handling with Pydantic.
+
+#### 🔊 [Ciphersonic](https://github.com/srijanravisankar/ciphersonic)
+*Feb 2025 – April 2025*
+An end-to-end encrypted messaging app that transmits data via **sound waves** (air-gapped communication).
+* **Stack:** Python, Flask, GGWave, PyCryptodome.
+* **Highlight:** Implemented RSA/AES encryption for secure, internet-independent key exchange.
+
+#### ⛏️ [Minecraft Player Behavior Study](https://github.com/srijanravisankar/minecraft-study)
+*Oct 2024 – Dec 2024*
+A data science project analyzing player engagement trends across age and gender.
+* **Stack:** Python, Jupyter, Tidyverse, ggplot2.
+* **Highlight:** Created interactive visualizations to drive data-driven insights on game mechanics.
+
+---
+
+### 📜 Certifications
+* **Kubernetes & Docker** (Boot.dev)
+* **Git & Linux Architecture** (Boot.dev)
+
+---
+
+### 📫 Connect with Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/srijanravisankar)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:srijanvr@gmail.com)
+
+---                                  
                                                                          
                                                                       
 
