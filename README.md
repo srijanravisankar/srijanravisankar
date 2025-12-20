@@ -7,10 +7,6 @@
 
 ### Full-stack developer| AI Enthusiast | 3rd Year Computer Science Student @ Lakehead University 🇨🇦
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanravisankar&label=Profile views&color=0e75b6&style=flat" alt="srijanravisankar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanravisankar" alt="srijanravisankar" /></a> </p>
-
 - 👨‍💻 I am a Full Stack Developer and AI enthusiast passionate about building secure, scalable applications and solving complex problems with modern tech stacks.
 
 - 🔭 I'm currently working on **A next.js & spring boot project...**
@@ -85,6 +81,9 @@ A data science project analyzing player engagement trends across age and gender.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijanravisankar&" alt="srijanravisankar" /></p>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=srijanravisankar&label=Profile-views&color=0e75b6&style=flat" alt="srijanravisankar" /> </p>
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanravisankar" alt="srijanravisankar" /></a></p>
 ----                      
                                                                          
                                                                       
