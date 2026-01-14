@@ -78,8 +78,6 @@ A data science project analyzing player engagement trends across age and gender.
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=srijanravisankar&label=Profile-views&color=0e75b6&style=flat" alt="srijanravisankar" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijanravisankar&" alt="srijanravisankar" /></p>
-
 ![](https://github-trophies.vercel.app/?username=srijanravisankar)
 
 ----                      
