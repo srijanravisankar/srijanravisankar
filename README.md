@@ -11,7 +11,9 @@
 
 - 🔭 I'm currently working on **A django project...**
 
-- 🌱 I'm currently learning **Django, Spring Boot, GraphQL**
+- 🌱 I'm currently learning **Django ⛓️‍💥, Spring Boot, GraphQL 🌴**
+
+- 👷🏻 Building scalable 📏, high-performance 🚀 web applications.
 
 - 📫 How to reach me: **srijanvr@gmail.com**
 
@@ -80,7 +82,6 @@ A data science project analyzing player engagement trends across age and gender.
 
 ![](https://github-trophies.vercel.app/?username=srijanravisankar)
 
-----                      
-                                                                         
+----                                                                                
                                                                       
 
